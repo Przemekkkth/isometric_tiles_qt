@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/isometric_demo.png</file>
+        <file>res/juniory.ttf</file>
+    </qresource>
+</RCC>
